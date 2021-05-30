@@ -1,0 +1,34 @@
+<resources>
+
+
+        <string name="Baiji">Baiji</string>
+        <string name="BanjoCatfish">Banjo Catfish</string>
+        <string name="Barb">Barb</string>
+        <string name="BarnOwl">Barn Owl</string>
+        <string name="Baboon">Baboon</string>
+        <string name="BactrianCamel">Bactrian Camel</string>
+        <string name="Badger">Badger</string>
+        <string name="Balinese">Balinese</string>
+        <string name="BandedPalmCivet">Banded Palm Civet</string>
+        <string name="Bandicoot">Bandicoot</string>
+        <string name="back">Back</string>
+        <string name="app_name">C346 Practical2</string>
+        <string name="zoomin">Zoom In+</string>
+        <string name="zoomout">Zoom out-</string>
+        <string name="english">English</string>
+        <string name="chinese">Chinese</string>
+        <string name="website">Go To Website</string>
+        <string name="Baboonwebsite">https://a-z-animals.com/animals/baboon/</string>
+        <string name="BactrianCamelwebsite">https://a-z-animals.com/animals/bactrian-camel/</string>
+        <string name="tvBadgerwebsite">https://a-z-animals.com/animals/badger/</string>
+        <string name="Baijiwebsite">https://a-z-animals.com/animals/baiji/</string>
+        <string name="Balinesewebsite">https://a-z-animals.com/animals/balinese/</string>
+        <string name="BandedPalmCivetewebsite">https://a-z-animals.com/animals/banded-palm-civet/</string>
+        <string name="Bandicootwebsite">https://a-z-animals.com/animals/bandicoot/</string>
+        <string name="BanjoCatfishwebsite">https://a-z-animals.com/animals/banjo-catfish/</string>
+        <string name="Barbwebsite">https://a-z-animals.com/animals/barb/</string>
+        <string name="BarnOwlwebsite">https://a-z-animals.com/animals/barn-owl/</string>
+    <string name="_10_letter_b_animals_infomation">10 Letter B Animals Infomation</string>
+
+
+</resources>
